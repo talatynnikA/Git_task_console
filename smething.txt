@@ -1,1 +1,4 @@
 somthing here -- 1-st commit
+
+something here
+   		and here --2-nd commit
